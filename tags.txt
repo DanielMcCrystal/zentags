@@ -1,0 +1,38 @@
+journals/2023-05-01.txt year/2023 month/05 day/01
+journals/2023-05-02.txt year/2023 month/05 day/02
+journals/2023-06-01.txt year/2023 month/06 day/01
+journals/2023-06-02.txt year/2023 month/06 day/02
+journals/2022-05-01.txt year/2022 month/05 day/01
+journals/2022-05-02.txt year/2022 month/05 day/02
+journals/2022-06-01.txt year/2022 month/06 day/01
+journals/2022-06-02.txt year/2022 month/06 day/02
+journals documents
+
+2022_i9.txt taxes/i9 year/2022
+2023_i9.txt taxes/i9 year/2023
+2022_a5.txt taxes/a5 year/2022
+2023_a5.txt taxes/a5 year/2023
+2022_taxes_dc.turbo taxes year/2022 dc
+2022_taxes_federal.turbo taxes year/2022 usa
+2023_taxes_dc.turbo taxes year/2023 dc
+2023_taxes_federal.turbo taxes year/2023 usa
+
+dc city
+dc state
+usa country
+dc usa
+virginia state
+virginia usa
+
+country place
+city place
+state place
+
+taxes government
+taxes financial
+taxes/i9 documents
+taxes/a5 documents
+
+year time
+month time
+day time
